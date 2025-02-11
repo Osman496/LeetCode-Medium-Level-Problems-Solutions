@@ -4,7 +4,7 @@ Whether you're a beginner looking to improve your coding skills or an experience
 
 🛠️ How to Use This Repository
 
-Clone the Repository: git@github.com:Osman496/LeetCode-Medium-Level-Problems-Solutions.git
+Clone the Repository:[ git@github.com:Osman496/LeetCode-Medium-Level-Problems-Solutions.git](https://github.com/Osman496/LeetCode-Medium-Level-Problems-Solutions.git)
 
 Navigate to the Problem: Browse through the files to find the problem you're interested in. Each file contains a solution with comments explaining the approach.
 
