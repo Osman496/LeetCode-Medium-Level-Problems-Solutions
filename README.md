@@ -15,11 +15,11 @@ Contribute: If you have a better solution or want to add a new problem, feel fre
 🧩 Problems Solved Here are some of the problems you'll find in this repository:
 
 Maximum Subarray - 
-
-
+Add Two Numbers -
+Longest Substring Without Repeating Characters -
 e.t.c
 
-...and many more! Check out the files for a complete list.
+and many more! Check out the files for a complete list.
 
 🤝 Contribution Guidelines We welcome contributions to make this repository even better! Here's how you can help:
 
